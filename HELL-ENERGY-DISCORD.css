@@ -1,0 +1,354 @@
+.u-section-1 {
+  min-height: 464px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 352px;
+  margin-top: 112px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: -228px calc(((100% - 1140px) / 2) + 803px) 0 80px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 9px calc(((100% - 1140px) / 2) + 803px) 0 80px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: 6px auto 60px calc(((100% - 1140px) / 2));
+  padding: 8px 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    height: 270px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: calc(((100% - 940px) / 2) + 683px);
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 940px) / 2) + 683px);
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    width: 181px;
+    margin-left: calc(((100% - 940px) / 2));
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    height: 184px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: calc(((100% - 720px) / 2) + 463px);
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 720px) / 2) + 463px);
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: calc(((100% - 720px) / 2));
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    height: 148px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: calc(((100% - 540px) / 2) + 283px);
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 540px) / 2) + 283px);
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: calc(((100% - 540px) / 2));
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    height: 122px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: calc(((100% - 340px) / 2) + 83px);
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 340px) / 2) + 83px);
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: calc(((100% - 340px) / 2));
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  width: 1140px;
+  margin: 67px 0 0;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 356px;
+  background-image: url("images/91_Discord_logo_logos-512.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 310px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.u-section-2 .u-layout-cell-3 {
+  min-height: 340px;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px 0;
+}
+
+.u-section-2 .u-image-2 {
+  height: 303px;
+  margin-top: -8px;
+  margin-bottom: -8px;
+}
+
+.u-section-2 .u-layout-cell-4 {
+  min-height: 310px;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-3 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-text-4 {
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: 7px auto 0 20px;
+  padding: 8px 201px;
+}
+
+.u-section-2 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: -40px 30px 40px auto;
+  padding: 8px 215px 8px 214px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 438px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 294px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 256px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 280px;
+    background-position: 50% 50%;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 250px;
+  }
+
+  .u-section-2 .u-layout-cell-4 {
+    min-height: 256px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1023px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 450px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 429px;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 383px;
+  }
+
+  .u-section-2 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1563px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 675px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 644px;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 575px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1074px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 425px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 405px;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 362px;
+  }
+} HELL MASZK Nálunk már menő HELL-es maszk is rendelhető! Vedd meg 2 tálca mellé és a szállítás ingyenes lesz! 
+                                    Megrendelem!
+                                 HELL Classic Night Megérkezett első WEBSHOP EXKLUZÍV TERMÉKÜNK! A megszokott vitaminok mellett a HELL CLASSIC NIGHT Ginsenget is tartalmaz, a termék doboza pedig UV fényben fluoreszkál! Doboz gyűjtők figyelem! 
+                                    Megrendelem!
+                                 Megérkeztek az új HELL Ice Cool ízek! Törd meg a fagyos hangulatot a megújult HELL Ice Cool energiaitalokkal! Rendeld meg őket , hiszen 2 tálca vásárlása esetén ingyenesen házhoz visszük neked új kedvenceidet! 
+                                    Megrendelem!
+                                 Nézd meg új reklámfilmünket! Bruce Willis újra igent mondott a HELL-re, a minőségre és az élvezetre! A hollywoodi legenda ezúttal nem egyedül tűnik fel reklámfilmünkben, partnere a gyönyörű és tehetséges Zuleyka 
+                                    Megnézem!
+                                 Feltúrbóztuk legnépszerűbb energiaitalunkat! A HELL Classicba 500 mg C-vitamint tettünk és emellett D-vitaminnal is kiegészítettük. A C-és D-vitaminok hozzájárulnak az immunrendszer normál működéséhez.  Vigyázzunk egymásra! 
+                                    Megrendelem!
+                                 HELL ENERGY Páros maszkok A páros különlegességeinket piros organza tasakban küldjük neked, így a csomagolásra sem lesz gondod. 
+                                    Megrendelem
+                                 Exkluzív HELL 6 PACK ajándék 2 tálca HELL energiaital vagy Energy Coffee vásárlása után! Lemaradtál decemberben?! Akkor most ne késlekedj, hiszen korlátozott ideig újra elérhető Exkluzív 6 pack dobozunk! 
+                                    Részletek
+                                 Szerezd be saját 6 pack dobozod! CSAK EZEN A HÉTEN tart a promóció, siessetek mert limitált számban elérhető ez az exkluzív termék! 
+                                    Megrendelem!
+                                 Újdonságok a HELL ENERGY STOREBAN! Ne maradj le!  
+                                    Megrendelem!
+                                 HELL MASZK Nálunk már menő HELL-es maszk is rendelhető! Vedd meg 2 tálca mellé és a szállítás ingyenes lesz! 
+                                    Megrendelem!
+                                 HELL Classic Night Megérkezett első WEBSHOP EXKLUZÍV TERMÉKÜNK! A megszokott vitaminok mellett a HELL CLASSIC NIGHT Ginsenget is tartalmaz, a termék doboza pedig UV fényben fluoreszkál! Doboz gyűjtők figyelem! 
+                                    Megrendelem!
+                                 Megérkeztek az új HELL Ice Cool ízek! Törd meg a fagyos hangulatot a megújult HELL Ice Cool energiaitalokkal! Rendeld meg őket , hiszen 2 tálca vásárlása esetén ingyenesen házhoz visszük neked új kedvenceidet! 
+                                    Megrendelem!
+                                 Nézd meg új reklámfilmünket! Bruce Willis újra igent mondott a HELL-re, a minőségre és az élvezetre! A hollywoodi legenda ezúttal nem egyedül tűnik fel reklámfilmünkben, partnere a gyönyörű és tehetséges Zuleyka 
+                                    Megnézem!
+                                 Feltúrbóztuk legnépszerűbb energiaitalunkat! A HELL Classicba 500 mg C-vitamint tettünk és emellett D-vitaminnal is kiegészítettük. A C-és D-vitaminok hozzájárulnak az immunrendszer normál működéséhez.  Vigyázzunk egymásra! 
+                                    Megrendelem!
+                                 HELL ENERGY Páros maszkok A páros különlegességeinket piros organza tasakban küldjük neked, így a csomagolásra sem lesz gondod. 
+                                    Megrendelem
+                                 Exkluzív HELL 6 PACK ajándék 2 tálca HELL energiaital vagy Energy Coffee vásárlása után! Lemaradtál decemberben?! Akkor most ne késlekedj, hiszen korlátozott ideig újra elérhető Exkluzív 6 pack dobozunk! 
+                                    Részletek
+                                 Szerezd be saját 6 pack dobozod! CSAK EZEN A HÉTEN tart a promóció, siessetek mert limitált számban elérhető ez az exkluzív termék! 
+                                    Megrendelem!
+                                 Újdonságok a HELL ENERGY STOREBAN! Ne maradj le!  
+                                    Megrendelem!
+                                 HELL MASZK Nálunk már menő HELL-es maszk is rendelhető! Vedd meg 2 tálca mellé és a szállítás ingyenes lesz! 
+                                    Megrendelem!
+                                ‹›
